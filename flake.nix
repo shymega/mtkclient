@@ -1,7 +1,6 @@
 {
   inputs = {
-    # nixpkgs.url = "github:NixOS/nixpkgs?ref=nixpkgs-unstable";
-    nixpkgs.url = "github:NixOS/nixpkgs?ref=refs/pull/432318/head";
+    nixpkgs.url = "github:NixOS/nixpkgs?ref=nixpkgs-unstable";
     flake-compat.url = "https://flakehub.com/f/edolstra/flake-compat/1.tar.gz";
   };
 
